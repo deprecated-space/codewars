@@ -1,3 +1,3 @@
-#codewars#
+solutions for codewars using JavaScript.
 
-solutions with Javascript
+**But no longer update since 2016.01.08**
